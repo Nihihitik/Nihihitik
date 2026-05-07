@@ -2,8 +2,8 @@
 
 My current projects:
 
-- cfgskills.ru – утилита для оркестрации навыков AI-агентов
-- getclarity.ru
-- getfluxo.ru
-- jouryi.ru
-- tapnote.ru
+- [cfgskills](cfgskills.ru) – утилита для оркестрации навыков AI-агентов
+- [getclarity](getclarity.ru)
+- [getfluxo](getfluxo.ru)
+- [jouryi](jouryi.ru)
+- [tapnote](tapnote.ru)
